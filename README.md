@@ -15,6 +15,7 @@ Clone the repository using Git:
 
 ```bash
 git clone https://github.com/larainfo1050/education-portal.git
+cd education-portal
 ```
 ### Install PHP dependencies
 ```bash
