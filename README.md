@@ -39,3 +39,18 @@ php artisan db:seed
 ```bash
  php artisan migrate:fresh --seed
 ```
+## Tools and Libraries Used
+
+This project utilizes a variety of tools and libraries to enhance functionality and design:
+
+- **Laravel**: The PHP framework used for building the web application.
+- **Tailwind CSS**: A utility-first CSS framework for designing modern and responsive user interfaces.
+- **Alpine.js**: A lightweight JavaScript framework for adding interactivity to HTML.
+- **Livewire**: A Laravel library for building dynamic interfaces with minimal JavaScript, used here for datatables.
+- **Flowbite**: A Tailwind CSS component library that provides pre-designed components and UI elements. [Visit Flowbite](https://flowbite.com/)
+- **Laravel Livewire Tables**: A package for integrating tables into Livewire components. [Check out Laravel Livewire Tables](https://github.com/laravel-livewire/tables)
+- **Heroicons**: A collection of free, high-quality SVG icons for use in your projects. [Explore Heroicons](https://heroicons.com/)
+- **UnDraw**: A constantly updated collection of beautiful SVG images that you can use in your projects. [Visit UnDraw](https://undraw.co/)
+- **Laravel Breeze**: A simple and minimalistic authentication system for Laravel, providing a starting point for building authentication features. [Learn more about Laravel Breeze](https://laravel.com/docs/10.x)
+
+These tools and libraries are integrated into the project to streamline development and enhance the user experience.
