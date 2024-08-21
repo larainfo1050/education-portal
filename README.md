@@ -1,6 +1,13 @@
 # Project Setup Instructions
 
 Follow these steps to set up and run the Laravel project on your local machine.
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **PHP**: ^8.1
+- **Composer**: Latest version
+- **Laravel 10**
 
 ## Clone the Repository
 
