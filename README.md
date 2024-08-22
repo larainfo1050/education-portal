@@ -25,7 +25,15 @@ composer install
 ```bash
 php artisan key:generate
 ```
-
+### Install Node.js dependencies
+```bash
+npm install
+```
+also run
+```bash 
+npm run dev # or
+npm run build
+```
 #### .Configure Environment Settings
 ```bash
 DB_CONNECTION=mysql
